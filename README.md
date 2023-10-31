@@ -1,4 +1,7 @@
-<p align="center">I ❤️ Code:  My Journey into Web Development" <br><br> 
+![my profile banner](./assets/profile-gif.gif)
+
+<p align="center">I ❤️ Code:  My Journey into Web 
+Development" <br><br> 
 <p>
 <p align="center">Hello, I'm ana Cláudia and I'm passionate about web development. I'm a beginner in the world of technology, with a strong desire to learn and grow in the field of HTML, CSS, and JavaScript.  <br><br> 
 <p>
