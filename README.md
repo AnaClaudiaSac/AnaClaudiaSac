@@ -3,7 +3,7 @@
 <p align="center">I ❤️ Code:  My Journey into Web 
 Development <br><br> 
 <p>
-<p align="center">Hello, I'm ana Cláudia and I'm passionate about web development. I'm a beginner in the world of technology, with a strong desire to learn and grow in the field of HTML, CSS, and JavaScript.  <br><br> 
+<p align="center">Hello, I'm ana Cláudia and I'm passionate about web development. I'm a beginner in the world of technology, with a strong desire to learn and grow in the field of HTML, CSS, JavaScript and React <br><br> 
 <p>
 <p align="center"> Welcome to My GitHub Repository</p>
 
@@ -45,6 +45,7 @@ Let's embark on this coding adventure together! 🚀
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/ReactScript-F7DF1E?style=for-the-badge&logo=reactscript&logoColor=black)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
