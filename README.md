@@ -45,7 +45,7 @@ Let's embark on this coding adventure together! 🚀
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-58c4dc?style=for-the-badge)&nbsp;
+![React]([https://img.shields.io/badge/React-58c4dc?style=for-the-badge](https://www.google.com/imgres?q=react%20native%20png%20para%20linkedin&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D12AQEqFLrf2Tc5_w%2Farticle-cover_image-shrink_720_1280%2F0%2F1696177525815%3Fe%3D2147483647%26v%3Dbeta%26t%3DCf8O6yOmHtZqNjJSqx3s9nqPrb0KRuOMMpYLkzjPv8A&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmaster-react-native-unlock-secrets-building-powerful-mobile-bansal-1grjf&docid=Cgj9ELPdoRbk0M&tbnid=58Nxd6ih-d7GyM&vet=12ahUKEwjnk_Wm6_SHAxUJr5UCHQN9HAgQM3oECBwQAA..i&w=1024&h=631&hcb=2&ved=2ahUKEwjnk_Wm6_SHAxUJr5UCHQN9HAgQM3oECBwQAA))&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
