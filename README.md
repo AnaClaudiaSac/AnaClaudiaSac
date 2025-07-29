@@ -3,7 +3,7 @@
 <p align="center">I ❤️ Code:  My Journey into Web 
 Development <br><br> 
 <p>
-<p align="center">Hello, I'm ana Cláudia and I'm passionate about web development. I'm a beginner in the world of technology, with a strong desire to learn and grow in the field of HTML, CSS, JavaScript and React <br><br> 
+<p align="center">Hello, I'm ana Cláudia and I'm passionate about web development. I'm a beginner in the world of technology, with a strong desire to learn and grow in the field of HTML, CSS, JavaScript, React and React Native<br><br> 
 <p>
 <p align="center"> Welcome to My GitHub Repository</p>
 
